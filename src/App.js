@@ -6,7 +6,7 @@ const App = () => {
   }; 
   
   return <>
-    <input onChange={(e) => { setMessage(e.target.value); }} />
+    <input value={message} onChange={(e) => { setMessage(e.target.value); }} />
     <button onClick={(e) => { handleSubmit(e); }}>Click</button>
   </>;
 };

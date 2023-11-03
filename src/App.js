@@ -1,7 +1,7 @@
 import React from 'react';
 
 const App = () => {
-  const [message, setMessage] = React.useState();
+  const [message, setMessage] = React.useState("message");
   const [result, setResult] = React.useState();
 
   const handleSubmit = async (e) => {

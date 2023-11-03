@@ -12,7 +12,7 @@ const App = () => {
   return <>
     <input value={message} onChange={(e) => { setMessage(e.target.value); }} />
     <button onClick={(e) => { handleSubmit(e); }}>Click</button>
-    <Text>{result}</Text> 
+    {result} 
   </>;
 };
 

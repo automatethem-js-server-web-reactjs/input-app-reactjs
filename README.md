@@ -1,9 +1,9 @@
-# basic-app-react
+# input-app-react
 
 ```
-//npx create-react-app basic-app-react
-//cd basic-app-react
-cd basic-app-react
+//npx create-react-app input-app-react
+//cd input-app-react
+cd input-app-react
 npm install
 ```
 

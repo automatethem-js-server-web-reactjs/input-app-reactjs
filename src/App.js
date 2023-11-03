@@ -1,3 +1,5 @@
+import React from 'react';
+
 const App = () => {
   const [message, setMessage] = React.useState("메시지");
 

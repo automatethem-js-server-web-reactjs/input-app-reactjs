@@ -1,9 +1,9 @@
-# input-app-react
+# input-app-reactjs
 
 ```
-//npx create-react-app input-app-react
-//cd input-app-react
-cd input-app-react
+//npx create-react-app input-app-reactjs
+//cd input-app-reactjs
+cd input-app-reactjs
 npm install
 ```
 

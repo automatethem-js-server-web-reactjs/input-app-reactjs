@@ -4,7 +4,7 @@ const App = () => {
   const [message, setMessage] = React.useState("message");
   const [result, setResult] = React.useState();
 
-  const calculateResult = async (e) => {
+  const calculateResult = async () => {
       setResult("hello "+ message);
       console.log("hello "+ message); 
   }; 

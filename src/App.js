@@ -1,9 +1,9 @@
 /*
-//방식2
+//방식1
 //<input ref
 */
 ///*
-//방식3
+//방식2
 //const [name, setName] = useState("");
 //<input value={name} onChange
 import React from 'react';

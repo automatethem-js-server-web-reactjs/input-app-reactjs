@@ -33,14 +33,14 @@ https://www.inflearn.com/course/lecture?courseSlug=%ED%94%84%EB%A1%9C%EC%A0%9D%E
 
 https://github.com/automatethem-js-server-web-reactjs/crud-app-reactjs-json-server-inflearn/blob/main/src/components/BlogForm.js
 
-![](form1.png?raw=true)
+![](attach_files/form1.png?raw=true)
 
-![](form2.png?raw=true)
+![](attach_files/form2.png?raw=true)
 
-![](form3.png?raw=true)
+![](attach_files/form3.png?raw=true)
 
-![](form4.png?raw=true)
+![](attach_files/form4.png?raw=true)
 
-![](form5.png?raw=true)
+![](attach_files/form5.png?raw=true)
 
-![](form6.png?raw=true)
+![](attach_files/form6.png?raw=true)
